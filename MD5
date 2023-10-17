@@ -1,0 +1,12 @@
+7a41528936e47047f42ea3611b399c13 *DESCRIPTION
+568ed6200b5c06e3413798818419f13b *NAMESPACE
+d00921e5dd1788b42d0fe7b8f44c4585 *R/evaliq.R
+fed075a397103bcf17a6946f8e7ddf68 *R/missar.R
+17b552e85001cf4f6b2e5cb4d699d8fe *R/misspi.R
+d3ee99b0c5155058a475b49239855231 *R/toxicity.R
+439bf689fa27cf9affd0335332142165 *build/partial.rdb
+617b77823fb76c8b03668fdbb49f05e6 *data/toxicity.rda
+3f77f38e8863537d180c60d9ca80966e *man/evaliq.Rd
+d5bc19a29386f0c8e227d22399dd2afc *man/missar.Rd
+a8ee34c7b4508e15ae47e89140784f47 *man/misspi.Rd
+5f2cd11e0efb7f4a025dcf6c36179c15 *man/toxicity.Rd
